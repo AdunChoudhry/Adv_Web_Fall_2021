@@ -4,9 +4,9 @@
 
 
 :root {
-    --mainbg: #d8d8d8;
+    --mainbg: white;
     --headercolor: #ffffff;
-    --navcolor:#001d3d;
+    --navcolor:#FFDD08;
     --navtext: #ffffff;
     --footercolor: #4a4b4a;
 }
@@ -29,7 +29,7 @@ header {
 
 i {
     margin: .5vh;
-    color: slateblue;
+    color: #FFDD08;
 }
 
 .headerContact {
@@ -113,7 +113,7 @@ footer {
 .jumbotron{
     position:relative;
     width:100%;
-    color:white;
+    color: #FFDD08;
     text-align:center;
   }
   .overlay{
@@ -154,7 +154,7 @@ footer {
     padding:.6rem;
     color:black;
     text-decoration:none;
-    background-color:rgb(128,27,27,.5);
+    background-color: white;
     margin:1rem auto;
     border-radius:6px;
     border:1px solid rgba(0,0,0,.15);
@@ -162,8 +162,8 @@ footer {
   }
   .jumbotron a:hover, .text a:hover{
     padding: 1rem;
-    background-color: rgb(128,27,27,1.0);
-    color:white;
+    background-color: grey;
+    color: #FFDD08;
   }
   
   
